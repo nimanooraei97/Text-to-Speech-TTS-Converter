@@ -2,7 +2,7 @@
 # GitHub Pages Configuration
 
 ## Setup
-- Enable GitHub Pages in the repository settings.
+- Enable GitHub Pages in the repository settings .
 - Set the source branch to `main` and the folder to `/docs`.
 
 ## Deployment
